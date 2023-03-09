@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheKooperDon
 - 👀 I’m interested in ... UX/UI Design and Web development and Coding Languages
-- 🌱 I’m currently learning ...PHP
+- 🌱 I’m currently learning ...Javascript/PHP
 - 💞️ I’m looking to collaborate on ... Website 
 - 📫 How to reach me ...LinkedIn https://www.linkedin.com/in/jsvjr/ Discord : TheKooperDon#3741
 
